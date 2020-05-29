@@ -18,7 +18,9 @@
   "main": "lib/server/index.js",
   "keywords": [
     "electrode",
-    "web","audio","bluetooth 5.2"
+    "web",
+    "audio",
+    "bluetooth 5.2"
   ],
   "repository": {
     "type": "git",
@@ -30,6 +32,8 @@
     "npm": ">= 6"
   },
   "dependencies": {
+    "@material-ui/core": "^4.10.0",
+    "@material-ui/icons": "^4.9.1",
     "@xarc/app": "^8.1.1",
     "@xarc/fastify-server": "^1.1.0",
     "react": "^16.13.1",
