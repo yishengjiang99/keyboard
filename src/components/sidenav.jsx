@@ -18,7 +18,8 @@ export const Sidenav = (props) => {
                 alert(link.name + "clicked");
             }}
           >
-            {/* {link.icon ? <Icon> {link.icon}</Icon> : null} */}
+            {link.icon ? <link.icon /> : null}
+
             <ListItemText>{link.text}</ListItemText>
           </ListItem>
         );
