@@ -34,7 +34,7 @@
   "dependencies": {
     "@material-ui/core": "^4.10.0",
     "@material-ui/icons": "^4.9.1",
-    "@xarc/app": "^8.1.1",
+    "@xarc/app": "^11.0.1",
     "@xarc/fastify-server": "^1.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
